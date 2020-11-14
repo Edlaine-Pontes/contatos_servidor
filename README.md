@@ -1,6 +1,7 @@
 # Contato Servidor
 
-<img src="./img/arquitera.jpg" width="100%">
+<img src="./img/arquitetura.jpg" width="100%">
+
 
 
 
